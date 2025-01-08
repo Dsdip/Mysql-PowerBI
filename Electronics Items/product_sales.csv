@@ -1,0 +1,1047 @@
+Date,Customer_Type,Country,Product_ID, Discoun_Band ,Units_Sold
+1/12/2023,Government,Germany,SR1001, None ,15
+1/12/2023,Education,United States of America,RR10020, None ,6
+1/12/2023,Government,Canada,FR10021, None ,18
+1/12/2023,Government,Germany,FR10021, None ,15
+1/12/2023,Government,Canada,HY1004, None ,18
+1/12/2023,Education,United States of America,, None ,6
+1/12/2023,Government,France,SR1001, Low ,22
+1/12/2023,Government,France,FR10021, Low ,22
+1/12/2023,Government,Canada,SR1001, Low ,29
+1/12/2023,Small Business,Canada,FR10021, Low ,19
+1/12/2023,Government,Canada,FR10021, Low ,29
+1/12/2023,Enterprise,Canada,FR10021, Low ,27
+1/12/2023,Creator,France,FR10021, Low ,11
+1/12/2023,Creator,Mexico,FR10021, Low ,11
+1/12/2023,Creator,France,PS10022, Low ,11
+1/12/2023,Creator,Mexico,PS10022, Low ,11
+1/12/2023,Enterprise,Canada,HY1004, Low ,27
+1/12/2023,Small Business,Canada,AR1200, Low ,19
+1/12/2023,Enterprise,France,RR10020, Low ,13
+1/12/2023,Enterprise,Germany,RR10020, Low ,17
+1/12/2023,Enterprise,France,FR10021, Low ,13
+1/12/2023,Enterprise,Germany,FR10021, Low ,17
+1/12/2023,Government,United States of America,SR1001, Low ,3
+1/12/2023,Enterprise,Mexico,RR10020, Low ,11
+1/12/2023,Government,United States of America,FR10021, Low ,3
+1/12/2023,Enterprise,Mexico,FR10021, Low ,11
+1/12/2023,Creator,Canada,FR10021, Medium ,24
+1/12/2023,Creator,Canada,PS10022, Medium ,24
+1/12/2023,Government,United States of America,SR1001, Medium ,6
+1/12/2023,Government,France,SR1001, Medium ,25
+1/12/2023,Government,United States of America,FR10021, Medium ,27
+1/12/2023,Small Business,Germany,PS10022, Medium ,13
+1/12/2023,Government,United States of America,HY1004, Medium ,27
+1/12/2023,Government,United States of America,HY1004, Medium ,6
+1/12/2023,Government,France,HY1004, Medium ,25
+1/12/2023,Small Business,Germany,AR1200, Medium ,13
+1/12/2023,Government,Canada,PS10022, Medium ,16
+1/12/2023,Government,Canada,HY1004, Medium ,16
+1/12/2023,Small Business,United States of America,PS10022, Medium ,14
+1/12/2023,Small Business,United States of America,AR1200, Medium ,14
+1/12/2023,Government,Mexico,SR1001, Medium ,14
+1/12/2023,Education,Germany,RR10020, Medium ,7
+1/12/2023,Government,Mexico,FR10021, Medium ,14
+1/12/2023,Small Business,Mexico,PS10022, Medium ,6
+1/12/2023,Education,Germany,AR1200, Medium ,7
+1/12/2023,Small Business,Mexico,AR1200, Medium ,6
+1/12/2023,Enterprise,United States of America,RR10020, Medium ,28
+1/12/2023,Enterprise,United States of America,FR10021, Medium ,28
+1/12/2023,Government,Mexico,SR1001, Medium ,5
+1/12/2023,Government,Mexico,HY1004, Medium ,5
+1/12/2023,Education,France,RR10020, High ,21
+1/12/2023,Small Business,France,PS10022, High ,9
+1/12/2023,Education,France,AR1200, High ,21
+1/12/2023,Small Business,France,AR1200, High ,9
+1/12/2023,Education,Mexico,RR10020, High ,22
+1/12/2023,Education,Mexico,AR1200, High ,22
+1/12/2023,Government,Mexico,FR10021, High ,12
+1/12/2023,Government,Mexico,HY1004, High ,12
+1/12/2023,Government,Germany,FR10021, High ,15
+1/12/2023,Government,Germany,HY1004, High ,15
+1/12/2023,Creator,Germany,FR10021, High ,10
+1/12/2023,Creator,Germany,PS10022, High ,10
+1/12/2023,Government,Germany,SR1001, High ,3
+1/12/2023,Government,Germany,HY1004, High ,3
+1/12/2023,Education,Canada,SR1001, High ,23
+1/12/2023,Education,Canada,RR10020, High ,23
+1/12/2023,Creator,United States of America,FR10021, High ,9
+1/12/2023,Government,France,FR10021, High ,3
+1/12/2023,Creator,United States of America,PS10022, High ,9
+1/12/2023,Government,France,HY1004, High ,3
+1/11/2023,Government,France,PS10022, Low ,6
+1/11/2023,Small Business,United States of America,FR10021, Low ,29
+1/11/2023,Enterprise,France,HY1004, Low ,17
+1/11/2023,Creator,Mexico,RR10020, Low ,7
+1/11/2023,Government,United States of America,AR1200, Low ,12
+1/11/2023,Government,France,AR1200, Low ,9
+1/11/2023,Education,Mexico,SR1001, Medium ,28
+1/11/2023,Creator,Germany,RR10020, Medium ,23
+1/11/2023,Education,United States of America,SR1001, Medium ,20
+1/11/2023,Creator,United States of America,RR10020, Medium ,27
+1/11/2023,Government,Mexico,PS10022, Medium ,13
+1/11/2023,Creator,France,RR10020, Medium ,23
+1/11/2023,Government,United States of America,PS10022, Medium ,6
+1/11/2023,Government,Canada,AR1200, Medium ,11
+1/11/2023,Education,France,SR1001, Medium ,5
+1/11/2023,Government,Germany,AR1200, Medium ,15
+1/11/2023,Creator,Canada,RR10020, Medium ,23
+1/11/2023,Small Business,France,FR10021, Medium ,13
+1/11/2023,Enterprise,Mexico,HY1004, Medium ,9
+1/11/2023,Government,Mexico,AR1200, Medium ,17
+1/11/2023,Government,Germany,PS10022, High ,27
+1/11/2023,Enterprise,Canada,HY1004, High ,25
+1/11/2023,Small Business,Canada,FR10021, High ,14
+1/11/2023,Government,Canada,PS10022, High ,18
+1/11/2023,Education,Canada,SR1001, High ,27
+1/11/2023,Government,France,FR10021, High ,16
+1/11/2023,Small Business,Germany,FR10021, High ,14
+1/11/2023,Small Business,Mexico,FR10021, High ,22
+1/11/2023,Government,Mexico,FR10021, High ,12
+1/11/2023,Enterprise,United States of America,HY1004, High ,24
+1/11/2023,Government,Germany,FR10021, High ,4
+1/11/2023,Education,Germany,SR1001, High ,15
+1/11/2023,Government,Canada,FR10021, High ,7
+1/11/2023,Government,United States of America,FR10021, High ,12
+1/11/2023,Enterprise,Germany,HY1004, High ,6
+1/10/2023,Government,United States of America,FR10021, None ,11
+1/10/2023,Government,United States of America,AR1200, None ,11
+1/10/2023,Government,Mexico,SR1001, Low ,14
+1/10/2023,Government,Mexico,HY1004, Low ,14
+1/10/2023,Creator,Canada,SR1001, Low ,13
+1/10/2023,Government,United States of America,RR10020, Low ,16
+1/10/2023,Creator,Canada,FR10021, Low ,13
+1/10/2023,Government,United States of America,PS10022, Low ,16
+1/10/2023,Government,Germany,PS10022, Low ,29
+1/10/2023,Government,Germany,HY1004, Low ,29
+1/10/2023,Enterprise,Canada,FR10021, Low ,20
+1/10/2023,Enterprise,Canada,PS10022, Low ,20
+1/10/2023,Education,Mexico,RR10020, Low ,20
+1/10/2023,Education,Mexico,FR10021, Low ,20
+1/10/2023,Small Business,Germany,SR1001, Low ,20
+1/10/2023,Small Business,Germany,RR10020, Low ,20
+1/10/2023,Government,France,PS10022, Low ,22
+1/10/2023,Government,France,HY1004, Low ,22
+1/10/2023,Government,Mexico,FR10021, Medium ,27
+1/10/2023,Government,Mexico,HY1004, Medium ,27
+1/10/2023,Enterprise,United States of America,FR10021, Medium ,9
+1/10/2023,Enterprise,United States of America,PS10022, Medium ,9
+1/10/2023,Education,United States of America,FR10021, Medium ,12
+1/10/2023,Education,United States of America,HY1004, Medium ,12
+1/10/2023,Small Business,France,SR1001, Medium ,22
+1/10/2023,Government,France,RR10020, Medium ,20
+1/10/2023,Small Business,France,RR10020, Medium ,22
+1/10/2023,Government,France,PS10022, Medium ,20
+1/10/2023,Education,France,FR10021, Medium ,12
+1/10/2023,Government,Canada,PS10022, Medium ,13
+1/10/2023,Education,France,HY1004, Medium ,12
+1/10/2023,Government,Canada,AR1200, Medium ,13
+1/10/2023,Government,Germany,FR10021, Medium ,4
+1/10/2023,Government,Germany,HY1004, Medium ,4
+1/10/2023,Government,Germany,FR10021, High ,2
+1/10/2023,Government,Germany,PS10022, High ,2
+1/10/2023,Creator,Germany,PS10022, High ,5
+1/10/2023,Creator,Germany,AR1200, High ,5
+1/10/2023,Enterprise,France,SR1001, High ,24
+1/10/2023,Enterprise,France,FR10021, High ,24
+1/10/2023,Enterprise,Mexico,SR1001, High ,22
+1/10/2023,Government,Canada,RR10020, High ,27
+1/10/2023,Enterprise,Mexico,FR10021, High ,22
+1/10/2023,Government,Mexico,FR10021, High ,9
+1/10/2023,Government,United States of America,PS10022, High ,10
+1/10/2023,Government,Mexico,PS10022, High ,9
+1/10/2023,Government,United States of America,HY1004, High ,10
+1/10/2023,Government,Canada,AR1200, High ,27
+1/10/2023,Government,Canada,RR10020, High ,13
+1/10/2023,Education,Canada,FR10021, High ,16
+1/10/2023,Government,Canada,FR10021, High ,13
+1/10/2023,Creator,Mexico,PS10022, High ,4
+1/10/2023,Education,Canada,HY1004, High ,16
+1/10/2023,Creator,Mexico,AR1200, High ,4
+1/10/2023,Creator,France,FR10021, High ,14
+1/10/2023,Creator,France,AR1200, High ,14
+1/10/2023,Small Business,Canada,SR1001, High ,15
+1/10/2023,Small Business,United States of America,SR1001, High ,10
+1/10/2023,Creator,United States of America,FR10021, High ,29
+1/10/2023,Government,France,FR10021, High ,17
+1/10/2023,Small Business,Canada,HY1004, High ,15
+1/10/2023,Small Business,United States of America,HY1004, High ,10
+1/10/2023,Creator,United States of America,AR1200, High ,29
+1/10/2023,Government,France,AR1200, High ,17
+1/10/2023,Enterprise,Germany,SR1001, High ,11
+1/10/2023,Small Business,Mexico,RR10020, High ,6
+1/10/2023,Enterprise,Germany,FR10021, High ,11
+1/10/2023,Education,Germany,FR10021, High ,12
+1/10/2023,Education,Germany,HY1004, High ,12
+1/10/2023,Small Business,Mexico,AR1200, High ,6
+1/10/2023,Government,Germany,RR10020, None ,22
+1/9/2023,Education,Mexico,FR10021, None ,25
+1/9/2023,Small Business,France,HY1004, None ,22
+1/9/2023,Creator,Canada,SR1001, Low ,15
+1/9/2023,Creator,France,SR1001, Low ,27
+1/9/2023,Education,Germany,FR10021, Low ,8
+1/9/2023,Small Business,Germany,HY1004, Low ,10
+1/9/2023,Creator,United States of America,SR1001, Low ,20
+1/9/2023,Government,France,RR10020, Low ,5
+1/9/2023,Education,Canada,FR10021, Low ,2
+1/9/2023,Government,Canada,FR10021, Low ,21
+1/9/2023,Government,United States of America,FR10021, Low ,11
+1/9/2023,Government,Germany,AR1200, Low ,19
+1/9/2023,Education,France,FR10021, Medium ,26
+1/9/2023,Creator,Mexico,SR1001, Medium ,6
+1/9/2023,Government,Mexico,AR1200, Medium ,17
+1/9/2023,Government,France,FR10021, Medium ,15
+1/9/2023,Enterprise,Germany,PS10022, Medium ,21
+1/9/2023,Government,France,AR1200, Medium ,29
+1/9/2023,Government,Germany,FR10021, Medium ,19
+1/9/2023,Government,Mexico,FR10021, Medium ,30
+1/9/2023,Small Business,Canada,HY1004, Medium ,21
+1/9/2023,Enterprise,Canada,PS10022, Medium ,6
+1/9/2023,Enterprise,Mexico,PS10022, Medium ,21
+1/9/2023,Small Business,United States of America,HY1004, Medium ,19
+1/9/2023,Government,United States of America,AR1200, Medium ,21
+1/9/2023,Creator,Germany,SR1001, Medium ,16
+1/9/2023,Government,United States of America,RR10020, High ,23
+1/9/2023,Enterprise,United States of America,PS10022, High ,16
+1/9/2023,Small Business,Mexico,HY1004, High ,4
+1/9/2023,Government,Canada,AR1200, High ,7
+1/9/2023,Government,Mexico,RR10020, High ,24
+1/9/2023,Education,United States of America,FR10021, High ,18
+1/9/2023,Government,Canada,RR10020, High ,4
+1/9/2023,Enterprise,France,PS10022, High ,7
+1/8/2023,Small Business,Mexico,RR10020, None ,10
+1/8/2023,Government,Mexico,FR10021, None ,9
+1/8/2023,Enterprise,United States of America,PS10022, None ,28
+1/8/2023,Creator,United States of America,AR1200, None ,21
+1/8/2023,Government,Canada,RR10020, Low ,18
+1/8/2023,Enterprise,Canada,PS10022, Low ,9
+1/8/2023,Small Business,Canada,HY1004, Low ,19
+1/8/2023,Government,Mexico,HY1004, Low ,16
+1/8/2023,Small Business,Germany,RR10020, Low ,19
+1/8/2023,Creator,Mexico,AR1200, Medium ,11
+1/8/2023,Government,United States of America,PS10022, Medium ,28
+1/8/2023,Government,France,PS10022, Medium ,16
+1/8/2023,Government,Canada,AR1200, Medium ,6
+1/8/2023,Education,United States of America,FR10021, Medium ,22
+1/8/2023,Education,Germany,FR10021, Medium ,17
+1/8/2023,Government,Germany,PS10022, Medium ,10
+1/8/2023,Creator,Canada,SR1001, Medium ,19
+1/8/2023,Education,France,FR10021, Medium ,21
+1/8/2023,Government,Mexico,PS10022, Medium ,6
+1/8/2023,Enterprise,Mexico,SR1001, Medium ,15
+1/8/2023,Small Business,France,RR10020, Medium ,16
+1/8/2023,Government,United States of America,FR10021, Medium ,7
+1/8/2023,Government,Germany,FR10021, Medium ,16
+1/8/2023,Government,France,HY1004, Medium ,4
+1/8/2023,Government,Germany,HY1004, Medium ,4
+1/8/2023,Government,United States of America,HY1004, High ,28
+1/8/2023,Creator,Germany,AR1200, High ,26
+1/8/2023,Government,Canada,FR10021, High ,24
+1/8/2023,Education,Mexico,FR10021, High ,20
+1/8/2023,Government,France,FR10021, High ,27
+1/8/2023,Small Business,United States of America,HY1004, High ,25
+1/8/2023,Creator,France,AR1200, High ,25
+1/8/2023,Enterprise,France,SR1001, High ,12
+1/8/2023,Enterprise,Germany,SR1001, High ,28
+1/8/2023,Education,Canada,FR10021, High ,26
+1/7/2023,Enterprise,Canada,RR10020, None ,27
+1/7/2023,Creator,Germany,FR10021, None ,4
+1/7/2023,Government,Germany,AR1200, None ,17
+1/7/2023,Government,United States of America,SR1001, Low ,25
+1/7/2023,Government,France,RR10020, Low ,14
+1/7/2023,Enterprise,Mexico,FR10021, Low ,18
+1/7/2023,Creator,United States of America,FR10021, Low ,14
+1/7/2023,Government,United States of America,FR10021, Low ,35
+1/7/2023,Enterprise,France,FR10021, Low ,30
+1/7/2023,Government,Mexico,AR1200, Medium ,17
+1/7/2023,Enterprise,United States of America,RR10020, Medium ,36
+1/7/2023,Enterprise,Germany,FR10021, Medium ,35
+1/7/2023,Small Business,France,PS10022, Medium ,17
+1/7/2023,Government,Germany,RR10020, Medium ,7
+1/7/2023,Government,United States of America,HY1004, Medium ,4
+1/7/2023,Small Business,Canada,PS10022, Medium ,38
+1/7/2023,Government,Germany,PS10022, Medium ,13
+1/7/2023,Government,Canada,SR1001, Medium ,8
+1/7/2023,Education,Canada,AR1200, Medium ,16
+1/7/2023,Government,France,PS10022, High ,6
+1/7/2023,Education,Mexico,HY1004, High ,6
+1/7/2023,Education,United States of America,AR1200, High ,32
+1/7/2023,Small Business,Germany,SR1001, High ,28
+1/7/2023,Government,Canada,FR10021, High ,21
+1/7/2023,Creator,Canada,FR10021, High ,40
+1/7/2023,Creator,France,FR10021, High ,24
+1/7/2023,Government,Mexico,PS10022, High ,14
+1/7/2023,Education,France,HY1004, High ,39
+1/7/2023,Government,France,AR1200, High ,34
+1/7/2023,Government,Mexico,RR10020, High ,23
+1/7/2023,Creator,Mexico,FR10021, High ,6
+1/7/2023,Small Business,Mexico,SR1001, High ,8
+1/7/2023,Small Business,United States of America,PS10022, High ,25
+1/7/2023,Government,Canada,HY1004, High ,9
+1/7/2023,Education,Germany,HY1004, High ,5
+1/6/2023,Education,France,SR1001, None ,22
+1/6/2023,Education,Germany,SR1001, None ,9
+1/6/2023,Education,Mexico,SR1001, None ,25
+1/6/2023,Creator,Canada,RR10020, None ,25
+1/6/2023,Government,France,RR10020, None ,19
+1/6/2023,Creator,Germany,RR10020, None ,16
+1/6/2023,Education,Mexico,RR10020, None ,25
+1/6/2023,Creator,Canada,FR10021, None ,25
+1/6/2023,Government,Germany,FR10021, None ,10
+1/6/2023,Government,Germany,PS10022, None ,10
+1/6/2023,Creator,Germany,PS10022, None ,16
+1/6/2023,Education,France,HY1004, None ,22
+1/6/2023,Education,Germany,HY1004, None ,9
+1/6/2023,Government,France,AR1200, None ,19
+1/6/2023,Enterprise,United States of America,FR10021, Low ,7
+1/6/2023,Enterprise,France,FR10021, Low ,8
+1/6/2023,Enterprise,United States of America,HY1004, Low ,7
+1/6/2023,Enterprise,France,HY1004, Low ,8
+1/6/2023,Creator,United States of America,RR10020, Low ,11
+1/6/2023,Creator,United States of America,FR10021, Low ,11
+1/6/2023,Enterprise,Mexico,FR10021, Low ,7
+1/6/2023,Enterprise,Mexico,HY1004, Low ,7
+1/6/2023,Small Business,Germany,SR1001, Low ,7
+1/6/2023,Creator,France,RR10020, Low ,19
+1/6/2023,Creator,France,FR10021, Low ,19
+1/6/2023,Small Business,Germany,FR10021, Low ,7
+1/6/2023,Enterprise,Germany,FR10021, Low ,16
+1/6/2023,Enterprise,Germany,HY1004, Low ,16
+1/6/2023,Small Business,United States of America,SR1001, Medium ,10
+1/6/2023,Small Business,United States of America,FR10021, Medium ,10
+1/6/2023,Government,United States of America,FR10021, Medium ,6
+1/6/2023,Government,United States of America,PS10022, Medium ,6
+1/6/2023,Education,Canada,SR1001, Medium ,28
+1/6/2023,Government,France,FR10021, Medium ,15
+1/6/2023,Government,France,PS10022, Medium ,15
+1/6/2023,Government,Mexico,PS10022, Medium ,15
+1/6/2023,Education,Canada,HY1004, Medium ,28
+1/6/2023,Government,Mexico,HY1004, Medium ,15
+1/6/2023,Government,Canada,PS10022, Medium ,11
+1/6/2023,Government,Canada,AR1200, Medium ,11
+1/6/2023,Small Business,France,SR1001, Medium ,5
+1/6/2023,Small Business,France,FR10021, Medium ,5
+1/6/2023,Government,United States of America,RR10020, Medium ,13
+1/6/2023,Government,United States of America,AR1200, Medium ,13
+1/6/2023,Government,Canada,RR10020, Medium ,7
+1/6/2023,Government,Germany,FR10021, Medium ,14
+1/6/2023,Small Business,Mexico,FR10021, Medium ,25
+1/6/2023,Government,United States of America,PS10022, Medium ,29
+1/6/2023,Government,Germany,PS10022, Medium ,23
+1/6/2023,Government,Germany,HY1004, Medium ,23
+1/6/2023,Government,Canada,AR1200, Medium ,7
+1/6/2023,Government,United States of America,AR1200, Medium ,29
+1/6/2023,Government,Germany,AR1200, Medium ,14
+1/6/2023,Small Business,Mexico,AR1200, Medium ,25
+1/6/2023,Small Business,Canada,SR1001, Medium ,11
+1/6/2023,Small Business,Canada,FR10021, Medium ,11
+1/6/2023,Government,Mexico,FR10021, Medium ,10
+1/6/2023,Government,Mexico,AR1200, Medium ,10
+1/6/2023,Government,Mexico,SR1001, High ,9
+1/6/2023,Government,Mexico,FR10021, High ,9
+1/6/2023,Education,United States of America,SR1001, High ,26
+1/6/2023,Education,United States of America,HY1004, High ,26
+1/6/2023,Creator,Mexico,RR10020, High ,6
+1/6/2023,Government,Canada,FR10021, High ,26
+1/6/2023,Enterprise,Canada,FR10021, High ,16
+1/6/2023,Government,Canada,PS10022, High ,26
+1/6/2023,Government,France,PS10022, High ,12
+1/6/2023,Creator,Mexico,PS10022, High ,6
+1/6/2023,Enterprise,Canada,HY1004, High ,16
+1/6/2023,Government,France,AR1200, High ,12
+1/5/2023,Government,France,FR10021, Low ,10
+1/5/2023,Government,Mexico,PS10022, Low ,4
+1/5/2023,Small Business,France,FR10021, Low ,9
+1/5/2023,Small Business,Germany,FR10021, Low ,17
+1/5/2023,Enterprise,Germany,AR1200, Low ,23
+1/5/2023,Government,Canada,SR1001, Low ,8
+1/5/2023,Small Business,United States of America,FR10021, Low ,29
+1/5/2023,Creator,France,HY1004, Low ,9
+1/5/2023,Government,France,SR1001, Medium ,16
+1/5/2023,Government,United States of America,FR10021, Medium ,23
+1/5/2023,Government,Germany,RR10020, Medium ,15
+1/5/2023,Education,Germany,PS10022, Medium ,15
+1/5/2023,Education,Canada,PS10022, Medium ,13
+1/5/2023,Small Business,Canada,FR10021, Medium ,17
+1/5/2023,Enterprise,Canada,AR1200, Medium ,17
+1/5/2023,Government,Canada,FR10021, Medium ,3
+1/5/2023,Government,Germany,FR10021, Medium ,11
+1/5/2023,Government,France,RR10020, Medium ,17
+1/5/2023,Education,Mexico,PS10022, Medium ,3
+1/5/2023,Creator,Germany,HY1004, Medium ,9
+1/5/2023,Government,Germany,SR1001, Medium ,7
+1/5/2023,Government,United States of America,RR10020, High ,23
+1/5/2023,Small Business,Mexico,FR10021, High ,6
+1/5/2023,Education,United States of America,PS10022, High ,8
+1/5/2023,Enterprise,Mexico,HY1004, High ,3
+1/5/2023,Government,Mexico,AR1200, High ,20
+1/5/2023,Enterprise,France,AR1200, High ,14
+1/5/2023,Creator,Canada,HY1004, High ,21
+1/5/2023,Creator,Mexico,RR10020, High ,27
+1/5/2023,Government,United States of America,SR1001, High ,17
+1/5/2023,Government,Canada,RR10020, High ,2
+1/5/2023,Enterprise,United States of America,AR1200, High ,28
+1/5/2023,Government,Mexico,FR10021, High ,29
+1/5/2023,Education,France,PS10022, High ,28
+1/5/2023,Creator,United States of America,HY1004, High ,18
+1/4/2023,Creator,Germany,HY1004, None ,28
+1/4/2023,Creator,United States of America,AR1200, None ,20
+1/4/2023,Enterprise,Germany,AR1200, None ,42
+1/4/2023,Small Business,United States of America,RR10020, Low ,23
+1/4/2023,Government,United States of America,FR10021, Low ,45
+1/4/2023,Government,France,PS10022, Low ,39
+1/4/2023,Government,Canada,HY1004, Low ,9
+1/4/2023,Enterprise,Canada,SR1001, Low ,7
+1/4/2023,Enterprise,France,SR1001, Low ,42
+1/4/2023,Government,Germany,SR1001, Low ,26
+1/4/2023,Creator,Mexico,HY1004, Low ,19
+1/4/2023,Government,Canada,PS10022, Low ,39
+1/4/2023,Small Business,Germany,FR10021, Low ,14
+1/4/2023,Enterprise,Mexico,AR1200, Low ,11
+1/4/2023,Small Business,Mexico,FR10021, Medium ,16
+1/4/2023,Education,France,FR10021, Medium ,38
+1/4/2023,Government,Mexico,RR10020, Medium ,10
+1/4/2023,Creator,France,HY1004, Medium ,17
+1/4/2023,Government,Germany,FR10021, Medium ,13
+1/4/2023,Government,France,HY1004, Medium ,6
+1/4/2023,Small Business,Canada,RR10020, Medium ,38
+1/4/2023,Education,United States of America,FR10021, Medium ,37
+1/4/2023,Government,United States of America,HY1004, Medium ,14
+1/4/2023,Education,Mexico,PS10022, Medium ,26
+1/4/2023,Enterprise,United States of America,SR1001, High ,35
+1/4/2023,Education,Germany,PS10022, High ,5
+1/4/2023,Creator,Canada,AR1200, High ,35
+1/4/2023,Government,France,FR10021, High ,25
+1/4/2023,Small Business,France,RR10020, High ,18
+1/4/2023,Government,Mexico,SR1001, High ,26
+1/4/2023,Government,Germany,RR10020, High ,12
+1/4/2023,Government,United States of America,PS10022, High ,6
+1/4/2023,Education,Canada,FR10021, High ,16
+1/4/2023,Government,Mexico,FR10021, High ,25
+1/4/2023,Government,Canada,FR10021, High ,7
+1/3/2023,Education,Germany,RR10020, None ,9
+1/3/2023,Creator,Germany,PS10022, None ,22
+1/3/2023,Government,Canada,HY1004, Low ,13
+1/3/2023,Government,Mexico,SR1001, Low ,12
+1/3/2023,Education,Mexico,RR10020, Low ,22
+1/3/2023,Government,Germany,HY1004, Low ,3
+1/3/2023,Small Business,Germany,AR1200, Low ,3
+1/3/2023,Small Business,Mexico,AR1200, Low ,11
+1/3/2023,Enterprise,Canada,FR10021, Low ,18
+1/3/2023,Education,Canada,RR10020, Low ,20
+1/3/2023,Enterprise,Germany,FR10021, Low ,8
+1/3/2023,Creator,United States of America,PS10022, Low ,15
+1/3/2023,Enterprise,United States of America,FR10021, Medium ,30
+1/3/2023,Enterprise,France,FR10021, Medium ,24
+1/3/2023,Government,United States of America,SR1001, Medium ,18
+1/3/2023,Education,France,RR10020, Medium ,25
+1/3/2023,Enterprise,Mexico,FR10021, Medium ,11
+1/3/2023,Creator,Canada,PS10022, Medium ,6
+1/3/2023,Government,United States of America,FR10021, Medium ,10
+1/3/2023,Creator,France,PS10022, Medium ,20
+1/3/2023,Government,France,FR10021, High ,20
+1/3/2023,Small Business,United States of America,AR1200, High ,30
+1/3/2023,Government,United States of America,HY1004, High ,16
+1/3/2023,Government,Germany,SR1001, High ,8
+1/3/2023,Government,Mexico,FR10021, High ,11
+1/3/2023,Education,United States of America,RR10020, High ,7
+1/3/2023,Government,France,HY1004, High ,15
+1/3/2023,Government,Canada,SR1001, High ,9
+1/3/2023,Government,France,SR1001, High ,18
+1/3/2023,Government,Canada,FR10021, High ,24
+1/3/2023,Government,Mexico,HY1004, High ,29
+1/3/2023,Small Business,Canada,AR1200, High ,9
+1/3/2023,Government,Germany,FR10021, High ,12
+1/3/2023,Creator,Mexico,PS10022, High ,5
+1/3/2023,Small Business,France,AR1200, High ,25
+1/2/2023,Government,Canada,FR10021, None ,3
+1/2/2023,Education,Mexico,FR10021, None ,10
+1/2/2023,Enterprise,France,PS10022, None ,18
+1/2/2023,Small Business,Canada,HY1004, None ,20
+1/2/2023,Government,France,AR1200, None ,28
+1/2/2023,Education,France,FR10021, Low ,23
+1/2/2023,Creator,United States of America,SR1001, Low ,19
+1/2/2023,Education,United States of America,FR10021, Low ,15
+1/2/2023,Education,Canada,FR10021, Low ,24
+1/2/2023,Government,Germany,RR10020, Low ,20
+1/2/2023,Small Business,United States of America,HY1004, Low ,28
+1/2/2023,Government,Mexico,AR1200, Low ,19
+1/2/2023,Creator,France,SR1001, Medium ,19
+1/2/2023,Creator,Germany,SR1001, Medium ,11
+1/2/2023,Government,France,FR10021, Medium ,13
+1/2/2023,Enterprise,Germany,PS10022, Medium ,8
+1/2/2023,Government,Germany,AR1200, Medium ,14
+1/2/2023,Enterprise,Canada,PS10022, Medium ,10
+1/2/2023,Enterprise,United States of America,PS10022, Medium ,28
+1/2/2023,Creator,Mexico,SR1001, Medium ,7
+1/2/2023,Small Business,France,HY1004, Medium ,10
+1/2/2023,Small Business,Mexico,HY1004, Medium ,28
+1/2/2023,Government,Canada,RR10020, Medium ,5
+1/2/2023,Small Business,Germany,HY1004, Medium ,27
+1/2/2023,Government,Canada,AR1200, High ,22
+1/2/2023,Creator,Canada,SR1001, High ,19
+1/2/2023,Government,United States of America,AR1200, High ,3
+1/2/2023,Government,United States of America,RR10020, High ,13
+1/2/2023,Government,United States of America,FR10021, High ,26
+1/2/2023,Government,Germany,FR10021, High ,27
+1/2/2023,Government,France,RR10020, High ,3
+1/2/2023,Education,Germany,FR10021, High ,3
+1/2/2023,Government,Mexico,FR10021, High ,3
+1/2/2023,Enterprise,Mexico,PS10022, High ,16
+1/2/2023,Government,Mexico,RR10020, High ,14
+1/1/2023,Government,Canada,SR1001, None ,16
+1/1/2023,Government,Germany,SR1001, None ,13
+1/1/2023,Government,Mexico,PS10022, None ,15
+1/1/2023,Government,France,FR10021, Low ,40
+1/1/2023,Small Business,France,FR10021, Low ,24
+1/1/2023,Creator,Germany,HY1004, Low ,25
+1/1/2023,Government,Canada,FR10021, Low ,43
+1/1/2023,Government,Germany,FR10021, Medium ,14
+1/1/2023,Government,France,RR10020, Medium ,14
+1/1/2023,Education,United States of America,PS10022, Medium ,6
+1/1/2023,Education,Mexico,PS10022, Medium ,29
+1/1/2023,Government,United States of America,SR1001, Medium ,11
+1/1/2023,Enterprise,France,AR1200, Medium ,20
+1/1/2023,Creator,Mexico,RR10020, Medium ,23
+1/1/2023,Creator,Canada,HY1004, Medium ,32
+1/1/2023,Small Business,Mexico,FR10021, Medium ,26
+1/1/2023,Government,Mexico,FR10021, Medium ,24
+1/1/2023,Creator,United States of America,HY1004, Medium ,20
+1/1/2023,Education,Germany,PS10022, High ,7
+1/1/2023,Enterprise,United States of America,AR1200, High ,6
+1/1/2023,Education,Canada,PS10022, High ,4
+1/1/2023,Government,Germany,RR10020, High ,8
+1/1/2023,Small Business,Canada,FR10021, High ,9
+1/1/2023,Creator,France,HY1004, High ,17
+1/1/2023,Enterprise,Mexico,HY1004, High ,6
+1/1/2023,Enterprise,Germany,AR1200, High ,32
+1/1/2023,Government,Mexico,AR1200, High ,26
+1/1/2023,Small Business,United States of America,FR10021, High ,35
+1/1/2023,Government,France,SR1001, High ,25
+1/1/2023,Government,United States of America,RR10020, High ,10
+1/1/2023,Government,United States of America,FR10021, High ,14
+1/1/2023,Small Business,Germany,FR10021, High ,8
+1/1/2023,Education,France,PS10022, High ,40
+1/1/2023,Enterprise,Canada,AR1200, High ,17
+1/1/2023,Government,Canada,RR10020, High ,22
+1/12/2022,Education,Canada,FR10021, None ,22
+1/12/2022,Education,United States of America,FR10021, Low ,19
+1/12/2022,Government,United States of America,FR10021, Low ,20
+1/12/2022,Government,Mexico,PS10022, Low ,5
+1/12/2022,Government,United States of America,HY1004, Low ,3
+1/12/2022,Government,Mexico,HY1004, Low ,19
+1/12/2022,Creator,Canada,SR1001, Low ,9
+1/12/2022,Education,France,FR10021, Low ,23
+1/12/2022,Government,Canada,AR1200, Low ,18
+1/12/2022,Small Business,Mexico,RR10020, Medium ,11
+1/12/2022,Government,Canada,FR10021, Medium ,18
+1/12/2022,Government,France,FR10021, Medium ,21
+1/12/2022,Education,Germany,FR10021, Medium ,21
+1/12/2022,Government,France,PS10022, Medium ,10
+1/12/2022,Enterprise,Germany,SR1001, Medium ,9
+1/12/2022,Small Business,Canada,HY1004, Medium ,24
+1/12/2022,Government,Germany,FR10021, Medium ,21
+1/12/2022,Government,United States of America,PS10022, Medium ,14
+1/12/2022,Government,Germany,PS10022, Medium ,6
+1/12/2022,Government,Mexico,FR10021, Medium ,20
+1/12/2022,Small Business,United States of America,HY1004, Medium ,8
+1/12/2022,Creator,Mexico,AR1200, Medium ,14
+1/12/2022,Government,Canada,RR10020, Medium ,16
+1/12/2022,Small Business,Germany,RR10020, Medium ,3
+1/12/2022,Creator,France,AR1200, Medium ,3
+1/12/2022,Enterprise,France,SR1001, High ,15
+1/12/2022,Enterprise,Canada,PS10022, High ,19
+1/12/2022,Government,Germany,HY1004, High ,19
+1/12/2022,Small Business,France,RR10020, High ,12
+1/12/2022,Education,Mexico,FR10021, High ,4
+1/12/2022,Creator,Germany,AR1200, High ,18
+1/12/2022,Creator,United States of America,AR1200, High ,20
+1/12/2022,Enterprise,Mexico,SR1001, High ,28
+1/12/2022,Government,France,HY1004, High ,13
+1/12/2022,Enterprise,United States of America,PS10022, High ,24
+1/11/2022,Government,Canada,FR10021, None ,17
+1/11/2022,Creator,United States of America,FR10021, None ,9
+1/11/2022,Government,Canada,PS10022, Low ,21
+1/11/2022,Education,France,AR1200, Low ,3
+1/11/2022,Government,France,SR1001, Low ,22
+1/11/2022,Enterprise,Mexico,RR10020, Low ,17
+1/11/2022,Creator,France,FR10021, Low ,18
+1/11/2022,Government,Germany,SR1001, Medium ,10
+1/11/2022,Government,United States of America,HY1004, Medium ,13
+1/11/2022,Government,Germany,HY1004, Medium ,23
+1/11/2022,Government,United States of America,SR1001, Medium ,3
+1/11/2022,Government,Mexico,HY1004, Medium ,11
+1/11/2022,Enterprise,Germany,RR10020, Medium ,25
+1/11/2022,Small Business,Canada,FR10021, Medium ,14
+1/11/2022,Creator,Mexico,FR10021, Medium ,28
+1/11/2022,Government,Germany,FR10021, Medium ,22
+1/11/2022,Small Business,France,PS10022, Medium ,4
+1/11/2022,Enterprise,France,RR10020, Medium ,19
+1/11/2022,Creator,Germany,FR10021, Medium ,18
+1/11/2022,Education,Germany,AR1200, Medium ,10
+1/11/2022,Government,France,HY1004, Medium ,27
+1/11/2022,Enterprise,United States of America,RR10020, High ,18
+1/11/2022,Education,Canada,SR1001, High ,16
+1/11/2022,Government,Mexico,SR1001, High ,27
+1/11/2022,Government,Canada,HY1004, High ,29
+1/11/2022,Education,United States of America,AR1200, High ,26
+1/11/2022,Small Business,Mexico,PS10022, High ,26
+1/11/2022,Creator,Canada,FR10021, High ,22
+1/11/2022,Government,France,FR10021, High ,19
+1/11/2022,Small Business,Germany,PS10022, High ,25
+1/11/2022,Education,Mexico,AR1200, High ,19
+1/11/2022,Government,United States of America,FR10021, High ,20
+1/11/2022,Government,Mexico,FR10021, High ,22
+1/11/2022,Small Business,United States of America,PS10022, High ,26
+1/11/2022,Enterprise,Canada,HY1004, High ,30
+1/10/2022,Enterprise,Canada,RR10020, None ,4
+1/10/2022,Enterprise,Canada,PS10022, None ,4
+1/10/2022,Creator,Germany,SR1001, Low ,8
+1/10/2022,Small Business,Mexico,SR1001, Low ,5
+1/10/2022,Enterprise,United States of America,RR10020, Low ,7
+1/10/2022,Creator,Germany,FR10021, Low ,8
+1/10/2022,Enterprise,United States of America,PS10022, Low ,7
+1/10/2022,Small Business,Mexico,HY1004, Low ,5
+1/10/2022,Small Business,Germany,SR1001, Low ,2
+1/10/2022,Enterprise,Germany,FR10021, Low ,8
+1/10/2022,Enterprise,Mexico,FR10021, Low ,22
+1/10/2022,Government,Germany,PS10022, Low ,30
+1/10/2022,Enterprise,Germany,PS10022, Low ,8
+1/10/2022,Enterprise,Mexico,PS10022, Low ,22
+1/10/2022,Small Business,Germany,HY1004, Low ,2
+1/10/2022,Government,Germany,AR1200, Low ,30
+1/10/2022,Education,Germany,FR10021, Low ,20
+1/10/2022,Education,Germany,HY1004, Low ,20
+1/10/2022,Government,Canada,SR1001, Low ,29
+1/10/2022,Government,Canada,RR10020, Low ,29
+1/10/2022,Education,United States of America,FR10021, Low ,7
+1/10/2022,Education,Mexico,FR10021, Low ,15
+1/10/2022,Education,Mexico,HY1004, Low ,15
+1/10/2022,Education,United States of America,AR1200, Low ,7
+1/10/2022,Government,Germany,RR10020, Medium ,12
+1/10/2022,Government,Germany,AR1200, Medium ,12
+1/10/2022,Government,Canada,FR10021, Medium ,12
+1/10/2022,Government,Canada,FR10021, Medium ,14
+1/10/2022,Enterprise,France,FR10021, Medium ,7
+1/10/2022,Enterprise,France,PS10022, Medium ,7
+1/10/2022,Government,Canada,HY1004, Medium ,14
+1/10/2022,Government,Canada,AR1200, Medium ,12
+1/10/2022,Creator,Canada,SR1001, Medium ,23
+1/10/2022,Government,France,RR10020, Medium ,14
+1/10/2022,Creator,Canada,FR10021, Medium ,23
+1/10/2022,Government,United States of America,FR10021, Medium ,7
+1/10/2022,Small Business,France,PS10022, Medium ,12
+1/10/2022,Government,France,PS10022, Medium ,21
+1/10/2022,Small Business,France,HY1004, Medium ,12
+1/10/2022,Government,United States of America,AR1200, Medium ,7
+1/10/2022,Government,France,AR1200, Medium ,14
+1/10/2022,Government,France,AR1200, Medium ,21
+1/10/2022,Government,France,RR10020, Medium ,18
+1/10/2022,Government,France,FR10021, Medium ,18
+1/10/2022,Creator,Mexico,SR1001, Medium ,4
+1/10/2022,Creator,Mexico,FR10021, Medium ,4
+1/10/2022,Creator,United States of America,SR1001, High ,4
+1/10/2022,Creator,United States of America,FR10021, High ,4
+1/10/2022,Education,France,FR10021, High ,22
+1/10/2022,Small Business,United States of America,PS10022, High ,23
+1/10/2022,Small Business,United States of America,HY1004, High ,23
+1/10/2022,Education,France,HY1004, High ,22
+1/10/2022,Creator,France,SR1001, High ,12
+1/10/2022,Creator,France,FR10021, High ,12
+1/10/2022,Government,Germany,RR10020, High ,30
+1/10/2022,Government,Germany,FR10021, High ,30
+1/10/2022,Government,Mexico,PS10022, High ,3
+1/10/2022,Government,Mexico,AR1200, High ,3
+1/10/2022,Government,Mexico,RR10020, High ,17
+1/10/2022,Government,Mexico,FR10021, High ,17
+1/10/2022,Government,United States of America,SR1001, High ,30
+1/10/2022,Government,United States of America,RR10020, High ,30
+1/10/2022,Government,Mexico,RR10020, High ,17
+1/10/2022,Education,Canada,FR10021, High ,17
+1/10/2022,Small Business,Canada,PS10022, High ,3
+1/10/2022,Small Business,Canada,HY1004, High ,3
+1/10/2022,Education,Canada,AR1200, High ,17
+1/10/2022,Government,Mexico,AR1200, High ,17
+1/10/2022,Government,United States of America,FR10021, High ,3
+1/10/2022,Government,United States of America,HY1004, High ,3
+1/9/2022,Education,France,FR10021, None ,6
+1/9/2022,Small Business,Mexico,FR10021, None ,8
+1/9/2022,Government,France,HY1004, None ,15
+1/9/2022,Enterprise,United States of America,SR1001, Low ,3
+1/9/2022,Small Business,United States of America,RR10020, Low ,25
+1/9/2022,Creator,United States of America,AR1200, Low ,20
+1/9/2022,Government,Germany,RR10020, Low ,18
+1/9/2022,Government,Mexico,FR10021, Low ,18
+1/9/2022,Government,United States of America,PS10022, Low ,7
+1/9/2022,Government,Canada,PS10022, Low ,27
+1/9/2022,Government,United States of America,HY1004, Low ,4
+1/9/2022,Government,Canada,FR10021, Medium ,24
+1/9/2022,Government,Mexico,RR10020, Medium ,7
+1/9/2022,Government,Mexico,SR1001, Medium ,18
+1/9/2022,Government,France,FR10021, Medium ,10
+1/9/2022,Creator,Germany,HY1004, Medium ,22
+1/9/2022,Education,United States of America,FR10021, Medium ,29
+1/9/2022,Small Business,Germany,FR10021, Medium ,11
+1/9/2022,Enterprise,Germany,AR1200, Medium ,10
+1/9/2022,Small Business,Canada,RR10020, Medium ,13
+1/9/2022,Government,Germany,FR10021, Medium ,24
+1/9/2022,Small Business,France,RR10020, Medium ,3
+1/9/2022,Creator,France,HY1004, Medium ,22
+1/9/2022,Creator,Mexico,HY1004, High ,10
+1/9/2022,Government,France,PS10022, High ,28
+1/9/2022,Education,Mexico,PS10022, High ,7
+1/9/2022,Enterprise,Mexico,AR1200, High ,10
+1/9/2022,Government,United States of America,FR10021, High ,4
+1/9/2022,Enterprise,Canada,SR1001, High ,24
+1/9/2022,Government,Canada,HY1004, High ,6
+1/9/2022,Creator,Canada,AR1200, High ,28
+1/9/2022,Government,Germany,SR1001, High ,4
+1/9/2022,Education,Germany,PS10022, High ,7
+1/9/2022,Enterprise,France,SR1001, High ,10
+1/9/2022,Education,Canada,FR10021, High ,25
+1/8/2022,Government,United States of America,FR10021, Low ,27
+1/8/2022,Government,Mexico,PS10022, Low ,29
+1/8/2022,Government,United States of America,HY1004, Low ,4
+1/8/2022,Government,Mexico,HY1004, Low ,11
+1/8/2022,Creator,Canada,SR1001, Low ,14
+1/8/2022,Education,France,FR10021, Low ,12
+1/8/2022,Government,Canada,AR1200, Low ,1
+1/8/2022,Small Business,Mexico,RR10020, Medium ,24
+1/8/2022,Government,Canada,FR10021, Medium ,17
+1/8/2022,Government,France,FR10021, Medium ,18
+1/8/2022,Education,Germany,FR10021, Medium ,29
+1/8/2022,Government,France,PS10022, Medium ,5
+1/8/2022,Enterprise,Germany,SR1001, Medium ,27
+1/8/2022,Small Business,Canada,HY1004, Medium ,23
+1/8/2022,Government,Germany,FR10021, Medium ,0
+1/8/2022,Government,United States of America,PS10022, Medium ,10
+1/8/2022,Government,Germany,PS10022, Medium ,27
+1/8/2022,Government,Mexico,FR10021, Medium ,17
+1/8/2022,Small Business,United States of America,HY1004, Medium ,18
+1/8/2022,Creator,Mexico,AR1200, Medium ,19
+1/8/2022,Government,Canada,RR10020, Medium ,19
+1/8/2022,Small Business,Germany,RR10020, Medium ,27
+1/8/2022,Creator,France,AR1200, Medium ,28
+1/8/2022,Enterprise,France,SR1001, High ,17
+1/8/2022,Enterprise,Canada,PS10022, High ,0
+1/8/2022,Government,Germany,HY1004, High ,20
+1/8/2022,Small Business,France,RR10020, High ,0
+1/8/2022,Education,Mexico,FR10021, High ,2
+1/8/2022,Creator,Germany,AR1200, High ,26
+1/8/2022,Creator,United States of America,AR1200, High ,24
+1/8/2022,Enterprise,Mexico,SR1001, High ,29
+1/8/2022,Government,France,HY1004, High ,8
+1/8/2022,Enterprise,United States of America,PS10022, High ,5
+1/7/2022,Government,Canada,FR10021, None ,24
+1/7/2022,Creator,United States of America,FR10021, None ,12
+1/7/2022,Government,Canada,PS10022, Low ,7
+1/7/2022,Education,France,AR1200, Low ,17
+1/7/2022,Government,France,SR1001, Low ,9
+1/7/2022,Enterprise,Mexico,RR10020, Low ,5
+1/7/2022,Creator,France,FR10021, Low ,0
+1/7/2022,Government,Germany,SR1001, Medium ,14
+1/7/2022,Government,United States of America,HY1004, Medium ,6
+1/7/2022,Government,Germany,HY1004, Medium ,18
+1/7/2022,Government,United States of America,SR1001, Medium ,14
+1/7/2022,Government,Mexico,HY1004, Medium ,28
+1/7/2022,Enterprise,Germany,RR10020, Medium ,20
+1/7/2022,Small Business,Canada,FR10021, Medium ,12
+1/7/2022,Creator,Mexico,FR10021, Medium ,28
+1/7/2022,Government,Germany,FR10021, Medium ,10
+1/7/2022,Small Business,France,PS10022, Medium ,20
+1/7/2022,Enterprise,France,RR10020, Medium ,10
+1/7/2022,Creator,Germany,FR10021, Medium ,13
+1/7/2022,Education,Germany,AR1200, Medium ,16
+1/7/2022,Government,France,HY1004, Medium ,28
+1/7/2022,Enterprise,United States of America,RR10020, High ,11
+1/7/2022,Education,Canada,SR1001, High ,10
+1/7/2022,Government,Mexico,SR1001, High ,7
+1/7/2022,Government,Canada,HY1004, High ,26
+1/7/2022,Education,United States of America,AR1200, High ,17
+1/7/2022,Small Business,Mexico,PS10022, High ,3
+1/7/2022,Creator,Canada,FR10021, High ,30
+1/7/2022,Government,France,FR10021, High ,25
+1/7/2022,Small Business,Germany,PS10022, High ,3
+1/7/2022,Education,Mexico,AR1200, High ,24
+1/7/2022,Government,United States of America,FR10021, High ,14
+1/7/2022,Government,Mexico,FR10021, High ,19
+1/7/2022,Small Business,United States of America,PS10022, High ,5
+1/7/2022,Enterprise,Canada,HY1004, High ,7
+1/6/2022,Enterprise,Canada,RR10020, None ,24
+1/6/2022,Enterprise,Canada,PS10022, None ,30
+1/6/2022,Creator,Germany,SR1001, Low ,24
+1/6/2022,Small Business,Mexico,SR1001, Low ,10
+1/6/2022,Enterprise,United States of America,RR10020, Low ,20
+1/6/2022,Creator,Germany,FR10021, Low ,22
+1/6/2022,Enterprise,United States of America,PS10022, Low ,17
+1/6/2022,Small Business,Mexico,HY1004, Low ,3
+1/6/2022,Small Business,Germany,SR1001, Low ,29
+1/6/2022,Enterprise,Germany,FR10021, Low ,1
+1/6/2022,Enterprise,Mexico,FR10021, Low ,25
+1/6/2022,Government,Germany,PS10022, Low ,11
+1/6/2022,Enterprise,Germany,PS10022, Low ,5
+1/6/2022,Enterprise,Mexico,PS10022, Low ,30
+1/6/2022,Small Business,Germany,HY1004, Low ,12
+1/6/2022,Government,Germany,AR1200, Low ,25
+1/6/2022,Education,Germany,FR10021, Low ,23
+1/6/2022,Education,Germany,HY1004, Low ,23
+1/6/2022,Government,Canada,SR1001, Low ,30
+1/6/2022,Government,Canada,RR10020, Low ,19
+1/6/2022,Education,United States of America,FR10021, Low ,25
+1/6/2022,Education,Mexico,FR10021, Low ,24
+1/6/2022,Education,Mexico,HY1004, Low ,24
+1/6/2022,Education,United States of America,AR1200, Low ,1
+1/6/2022,Government,Germany,RR10020, Medium ,2
+1/6/2022,Government,Germany,AR1200, Medium ,14
+1/6/2022,Government,Canada,FR10021, Medium ,8
+1/6/2022,Government,Canada,FR10021, Medium ,24
+1/6/2022,Enterprise,France,FR10021, Medium ,25
+1/6/2022,Enterprise,France,PS10022, Medium ,17
+1/6/2022,Government,Canada,HY1004, Medium ,21
+1/6/2022,Government,Canada,AR1200, Medium ,16
+1/6/2022,Creator,Canada,SR1001, Medium ,24
+1/6/2022,Government,France,RR10020, Medium ,18
+1/6/2022,Creator,Canada,FR10021, Medium ,22
+1/6/2022,Government,United States of America,FR10021, Medium ,29
+1/6/2022,Small Business,France,PS10022, Medium ,19
+1/6/2022,Government,France,PS10022, Medium ,16
+1/6/2022,Small Business,France,HY1004, Medium ,21
+1/6/2022,Government,United States of America,AR1200, Medium ,10
+1/6/2022,Government,France,AR1200, Medium ,20
+1/6/2022,Government,France,AR1200, Medium ,30
+1/6/2022,Government,France,RR10020, Medium ,11
+1/6/2022,Government,France,FR10021, Medium ,27
+1/6/2022,Creator,Mexico,SR1001, Medium ,5
+1/6/2022,Creator,Mexico,FR10021, Medium ,7
+1/6/2022,Creator,United States of America,SR1001, High ,20
+1/6/2022,Creator,United States of America,FR10021, High ,18
+1/6/2022,Education,France,FR10021, High ,21
+1/6/2022,Small Business,United States of America,PS10022, High ,11
+1/6/2022,Small Business,United States of America,HY1004, High ,23
+1/6/2022,Education,France,HY1004, High ,9
+1/6/2022,Creator,France,SR1001, High ,8
+1/6/2022,Creator,France,FR10021, High ,6
+1/6/2022,Government,Germany,RR10020, High ,9
+1/6/2022,Government,Germany,FR10021, High ,8
+1/6/2022,Government,Mexico,PS10022, High ,21
+1/6/2022,Government,Mexico,AR1200, High ,5
+1/6/2022,Government,Mexico,RR10020, High ,26
+1/6/2022,Government,Mexico,FR10021, High ,22
+1/6/2022,Government,United States of America,SR1001, High ,23
+1/6/2022,Government,United States of America,RR10020, High ,29
+1/6/2022,Government,Mexico,RR10020, High ,4
+1/6/2022,Education,Canada,FR10021, High ,20
+1/6/2022,Small Business,Canada,PS10022, High ,4
+1/6/2022,Small Business,Canada,HY1004, High ,15
+1/6/2022,Education,Canada,AR1200, High ,16
+1/6/2022,Government,Mexico,AR1200, High ,1
+1/6/2022,Government,United States of America,FR10021, High ,6
+1/6/2022,Government,United States of America,HY1004, High ,30
+1/5/2022,Education,France,FR10021, None ,9
+1/5/2022,Small Business,Mexico,FR10021, None ,1
+1/5/2022,Government,France,HY1004, None ,10
+1/5/2022,Enterprise,United States of America,SR1001, Low ,10
+1/5/2022,Small Business,United States of America,RR10020, Low ,2
+1/5/2022,Creator,United States of America,AR1200, Low ,15
+1/5/2022,Government,Germany,RR10020, Low ,28
+1/5/2022,Government,Mexico,FR10021, Low ,7
+1/5/2022,Government,United States of America,PS10022, Low ,17
+1/5/2022,Government,Canada,PS10022, Low ,9
+1/5/2022,Government,United States of America,HY1004, Low ,11
+1/5/2022,Government,Canada,FR10021, Medium ,15
+1/5/2022,Government,Mexico,RR10020, Medium ,0
+1/5/2022,Government,Mexico,SR1001, Medium ,3
+1/5/2022,Government,France,FR10021, Medium ,20
+1/5/2022,Creator,Germany,HY1004, Medium ,10
+1/5/2022,Education,United States of America,FR10021, Medium ,20
+1/5/2022,Small Business,Germany,FR10021, Medium ,18
+1/5/2022,Enterprise,Germany,AR1200, Medium ,21
+1/5/2022,Small Business,Canada,RR10020, Medium ,7
+1/5/2022,Government,Germany,FR10021, Medium ,13
+1/5/2022,Small Business,France,RR10020, Medium ,8
+1/5/2022,Creator,France,HY1004, Medium ,29
+1/5/2022,Creator,Mexico,HY1004, High ,11
+1/5/2022,Government,France,PS10022, High ,17
+1/5/2022,Education,Mexico,PS10022, High ,8
+1/5/2022,Enterprise,Mexico,AR1200, High ,22
+1/5/2022,Government,United States of America,FR10021, High ,4
+1/5/2022,Enterprise,Canada,SR1001, High ,2
+1/5/2022,Government,Canada,HY1004, High ,1
+1/5/2022,Creator,Canada,AR1200, High ,4
+1/5/2022,Government,Germany,SR1001, High ,11
+1/5/2022,Education,Germany,PS10022, High ,28
+1/5/2022,Enterprise,France,SR1001, High ,7
+1/5/2022,Education,Canada,FR10021, High ,13
+1/4/2022,Government,United States of America,FR10021, Low ,1
+1/4/2022,Government,Mexico,PS10022, Low ,28
+1/4/2022,Government,United States of America,HY1004, Low ,0
+1/4/2022,Government,Mexico,HY1004, Low ,7
+1/4/2022,Creator,Canada,SR1001, Low ,3
+1/4/2022,Education,France,FR10021, Low ,9
+1/4/2022,Government,Canada,AR1200, Low ,10
+1/4/2022,Small Business,Mexico,RR10020, Medium ,7
+1/4/2022,Government,Canada,FR10021, Medium ,11
+1/4/2022,Government,France,FR10021, Medium ,24
+1/4/2022,Education,Germany,FR10021, Medium ,24
+1/4/2022,Government,France,PS10022, Medium ,13
+1/4/2022,Enterprise,Germany,SR1001, Medium ,24
+1/4/2022,Small Business,Canada,HY1004, Medium ,13
+1/4/2022,Government,Germany,FR10021, Medium ,1
+1/4/2022,Government,United States of America,PS10022, Medium ,22
+1/4/2022,Government,Germany,PS10022, Medium ,8
+1/4/2022,Government,Mexico,FR10021, Medium ,26
+1/4/2022,Small Business,United States of America,HY1004, Medium ,7
+1/4/2022,Creator,Mexico,AR1200, Medium ,12
+1/4/2022,Government,Canada,RR10020, Medium ,8
+1/4/2022,Small Business,Germany,RR10020, Medium ,9
+1/4/2022,Creator,France,AR1200, Medium ,1
+1/4/2022,Enterprise,France,SR1001, High ,21
+1/4/2022,Enterprise,Canada,PS10022, High ,1
+1/4/2022,Government,Germany,HY1004, High ,18
+1/4/2022,Small Business,France,RR10020, High ,20
+1/4/2022,Education,Mexico,FR10021, High ,9
+1/4/2022,Creator,Germany,AR1200, High ,28
+1/4/2022,Creator,United States of America,AR1200, High ,14
+1/4/2022,Enterprise,Mexico,SR1001, High ,10
+1/4/2022,Government,France,HY1004, High ,19
+1/4/2022,Enterprise,United States of America,PS10022, High ,28
+1/3/2022,Government,Canada,FR10021, None ,24
+1/3/2022,Creator,United States of America,FR10021, None ,2
+1/3/2022,Government,Canada,PS10022, Low ,3
+1/3/2022,Education,France,AR1200, Low ,27
+1/3/2022,Government,France,SR1001, Low ,7
+1/3/2022,Enterprise,Mexico,RR10020, Low ,14
+1/3/2022,Creator,France,FR10021, Low ,16
+1/3/2022,Government,Germany,SR1001, Medium ,11
+1/3/2022,Government,United States of America,HY1004, Medium ,15
+1/3/2022,Government,Germany,HY1004, Medium ,26
+1/3/2022,Government,United States of America,SR1001, Medium ,16
+1/3/2022,Government,Mexico,HY1004, Medium ,14
+1/3/2022,Enterprise,Germany,RR10020, Medium ,3
+1/3/2022,Small Business,Canada,FR10021, Medium ,16
+1/3/2022,Creator,Mexico,FR10021, Medium ,11
+1/3/2022,Government,Germany,FR10021, Medium ,1
+1/3/2022,Small Business,France,PS10022, Medium ,10
+1/3/2022,Enterprise,France,RR10020, Medium ,7
+1/3/2022,Creator,Germany,FR10021, Medium ,24
+1/3/2022,Education,Germany,AR1200, Medium ,5
+1/3/2022,Government,France,HY1004, Medium ,23
+1/3/2022,Enterprise,United States of America,RR10020, High ,26
+1/3/2022,Education,Canada,SR1001, High ,13
+1/3/2022,Government,Mexico,SR1001, High ,25
+1/3/2022,Government,Canada,HY1004, High ,9
+1/3/2022,Education,United States of America,AR1200, High ,22
+1/3/2022,Small Business,Mexico,PS10022, High ,19
+1/3/2022,Creator,Canada,FR10021, High ,9
+1/3/2022,Government,France,FR10021, High ,28
+1/3/2022,Small Business,Germany,PS10022, High ,4
+1/3/2022,Education,Mexico,AR1200, High ,24
+1/3/2022,Government,United States of America,FR10021, High ,29
+1/3/2022,Government,Mexico,FR10021, High ,18
+1/3/2022,Small Business,United States of America,PS10022, High ,24
+1/3/2022,Enterprise,Canada,HY1004, High ,13
+1/2/2022,Enterprise,Canada,RR10020, None ,5
+1/2/2022,Enterprise,Canada,PS10022, None ,17
+1/2/2022,Creator,Germany,SR1001, Low ,26
+1/2/2022,Small Business,Mexico,SR1001, Low ,3
+1/2/2022,Enterprise,United States of America,RR10020, Low ,23
+1/2/2022,Creator,Germany,FR10021, Low ,10
+1/2/2022,Enterprise,United States of America,PS10022, Low ,28
+1/2/2022,Small Business,Mexico,HY1004, Low ,4
+1/2/2022,Small Business,Germany,SR1001, Low ,8
+1/2/2022,Enterprise,Germany,FR10021, Low ,25
+1/2/2022,Enterprise,Mexico,FR10021, Low ,25
+1/2/2022,Government,Germany,PS10022, Low ,16
+1/2/2022,Enterprise,Germany,PS10022, Low ,10
+1/2/2022,Enterprise,Mexico,PS10022, Low ,19
+1/2/2022,Small Business,Germany,HY1004, Low ,20
+1/2/2022,Government,Germany,AR1200, Low ,16
+1/2/2022,Education,Germany,FR10021, Low ,21
+1/2/2022,Education,Germany,HY1004, Low ,10
+1/2/2022,Government,Canada,SR1001, Low ,17
+1/2/2022,Government,Canada,RR10020, Low ,17
+1/2/2022,Education,United States of America,FR10021, Low ,29
+1/2/2022,Education,Mexico,FR10021, Low ,16
+1/2/2022,Education,Mexico,HY1004, Low ,23
+1/2/2022,Education,United States of America,AR1200, Low ,26
+1/2/2022,Government,Germany,RR10020, Medium ,5
+1/2/2022,Government,Germany,AR1200, Medium ,23
+1/2/2022,Government,Canada,FR10021, Medium ,11
+1/2/2022,Government,Canada,FR10021, Medium ,10
+1/2/2022,Enterprise,France,FR10021, Medium ,7
+1/2/2022,Enterprise,France,PS10022, Medium ,3
+1/2/2022,Government,Canada,HY1004, Medium ,12
+1/2/2022,Government,Canada,AR1200, Medium ,20
+1/2/2022,Creator,Canada,SR1001, Medium ,9
+1/2/2022,Government,France,RR10020, Medium ,5
+1/2/2022,Creator,Canada,FR10021, Medium ,9
+1/2/2022,Government,United States of America,FR10021, Medium ,6
+1/2/2022,Small Business,France,PS10022, Medium ,3
+1/2/2022,Government,France,PS10022, Medium ,27
+1/2/2022,Small Business,France,HY1004, Medium ,5
+1/2/2022,Government,United States of America,AR1200, Medium ,27
+1/2/2022,Government,France,AR1200, Medium ,20
+1/2/2022,Government,France,AR1200, Medium ,15
+1/2/2022,Government,France,RR10020, Medium ,0
+1/2/2022,Government,France,FR10021, Medium ,21
+1/2/2022,Creator,Mexico,SR1001, Medium ,18
+1/2/2022,Creator,Mexico,FR10021, Medium ,16
+1/2/2022,Creator,United States of America,SR1001, High ,8
+1/2/2022,Creator,United States of America,FR10021, High ,15
+1/2/2022,Education,France,FR10021, High ,2
+1/2/2022,Small Business,United States of America,PS10022, High ,4
+1/2/2022,Small Business,United States of America,HY1004, High ,26
+1/2/2022,Education,France,HY1004, High ,16
+1/2/2022,Creator,France,SR1001, High ,23
+1/2/2022,Creator,France,FR10021, High ,12
+1/2/2022,Government,Germany,RR10020, High ,18
+1/2/2022,Government,Germany,FR10021, High ,27
+1/2/2022,Government,Mexico,PS10022, High ,17
+1/2/2022,Government,Mexico,AR1200, High ,10
+1/2/2022,Government,Mexico,RR10020, High ,29
+1/2/2022,Government,Mexico,FR10021, High ,7
+1/2/2022,Government,United States of America,SR1001, High ,12
+1/2/2022,Government,United States of America,RR10020, High ,23
+1/2/2022,Government,Mexico,RR10020, High ,26
+1/2/2022,Education,Canada,FR10021, High ,30
+1/2/2022,Small Business,Canada,PS10022, High ,20
+1/2/2022,Small Business,Canada,HY1004, High ,20
+1/2/2022,Education,Canada,AR1200, High ,16
+1/2/2022,Government,Mexico,AR1200, High ,4
+1/2/2022,Government,United States of America,FR10021, High ,17
+1/2/2022,Government,United States of America,HY1004, High ,29
+1/1/2022,Education,France,FR10021, None ,27
+1/1/2022,Small Business,Mexico,FR10021, None ,24
+1/1/2022,Government,France,HY1004, None ,20
+1/1/2022,Enterprise,United States of America,SR1001, Low ,2
+1/1/2022,Small Business,United States of America,RR10020, Low ,23
+1/1/2022,Creator,United States of America,AR1200, Low ,28
+1/1/2022,Government,Germany,RR10020, Low ,16
+1/1/2022,Government,Mexico,FR10021, Low ,26
+1/1/2022,Government,United States of America,PS10022, Low ,17
+1/1/2022,Government,Canada,PS10022, Low ,1
+1/1/2022,Government,United States of America,HY1004, Low ,25
+1/1/2022,Government,Canada,FR10021, Medium ,25
+1/1/2022,Government,Mexico,RR10020, Medium ,5
+1/1/2022,Government,Mexico,SR1001, Medium ,8
+1/1/2022,Government,France,FR10021, Medium ,18
+1/1/2022,Creator,Germany,HY1004, Medium ,7
+1/1/2022,Education,United States of America,FR10021, Medium ,28
+1/1/2022,Small Business,Germany,FR10021, Medium ,14
+1/1/2022,Enterprise,Germany,AR1200, Medium ,25
+1/1/2022,Small Business,Canada,RR10020, Medium ,22
+1/1/2022,Government,Germany,FR10021, Medium ,21
+1/1/2022,Small Business,France,RR10020, Medium ,17
+1/1/2022,Creator,France,HY1004, Medium ,8
+1/1/2022,Creator,Mexico,HY1004, High ,26
+1/1/2022,Government,France,PS10022, High ,8
+1/1/2022,Education,Mexico,PS10022, High ,27
+1/1/2022,Enterprise,Mexico,AR1200, High ,20
+1/1/2022,Government,United States of America,FR10021, High ,9
+1/1/2022,Enterprise,Canada,SR1001, High ,25
+1/1/2022,Government,Canada,HY1004, High ,28
+1/1/2022,Creator,Canada,AR1200, High ,9
+1/1/2022,Government,Germany,SR1001, High ,8
+1/1/2022,Education,Germany,PS10022, High ,17
+1/1/2022,Enterprise,France,SR1001, High ,5
+1/1/2022,Education,Canada,FR10021, High ,19
